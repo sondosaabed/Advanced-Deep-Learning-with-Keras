@@ -1,1 +1,3 @@
 # Advanced-Deep-Learning-with-Keras
+
+In this course, I've learned how to solve a range of problems using the flexible Keras functional API. I started with simple, multi-layer dense networks, commonly known as multi-layer perceptrons, and progressed to more complex architectures. Throughout the course, I delved into building models with multiple inputs and a single output, mastering the art of sharing weights between layers. The advanced topics covered, including category embeddings and multiple-output networks, have expanded my understanding. If you've ever aspired to train a network capable of both classification and regression, this course is a perfect fit.
